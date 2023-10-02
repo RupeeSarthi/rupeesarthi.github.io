@@ -1,0 +1,304 @@
+a {
+  color: #ff3600;
+}
+a:hover {
+  color: #cc2b00;
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #ff3600;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:not(.sp-group-title):hover {
+  background: #ff3600;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a:not(.sp-group-title) {
+  background: #ff3600;
+}
+#offcanvas-toggler >i:hover {
+  color: #ff3600;
+}
+.btn-primary,
+.sppb-btn-primary {
+  background-color: #ff3600;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:hover:active,
+.sppb-btn-primary:hover,
+.sppb-btn-primary:focus,
+.sppb-btn-primary:active,
+.sppb-btn-primary:hover:active {
+  background-color: #cc2b00;
+}
+ul.social-icons >li a:hover {
+  color: #ff3600;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #757575;
+}
+.sp-module ul >li >a:hover {
+  color: #ff3600;
+}
+.sp-module .latestnews >div >a {
+  color: #757575;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #ff3600;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #ff3600;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #ff3600;
+}
+.search .btn-toolbar button {
+  background: #ff3600;
+}
+.post-format {
+  background: #ff3600;
+}
+.voting-symbol span.star.active:before {
+  color: #ff3600;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #cc2b00;
+}
+.entry-link,
+.entry-quote {
+  background: #ff3600;
+}
+blockquote {
+  border-color: #ff3600;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #ff3600;
+}
+#sp-footer {
+  background: #ff3600;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #757575;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #757575;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #ff3600;
+  background-color: #ff3600;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #ff3600;
+  background-color: #ff3600;
+}
+body {
+  color: #757575;
+  background-color: #ffffff;
+}
+.btn.btn-default,
+.sppb-btn.btn-default,
+.btn.sppb-btn-default,
+.sppb-btn.sppb-btn-default,
+body .sppb-addon-person .sppb-person-information > .sppb-person-designation {
+  color: #757575;
+}
+.btn.btn-link,
+.sppb-btn.btn-link,
+.btn.sppb-btn-link,
+.sppb-btn.sppb-btn-link,
+.major-color,
+.icon-top-wrapper i:hover,
+.icon-top-wrapper i:focus,
+.sppb-section:not(.spectrum-faq-list) .sppb-addon-feature .sppb-icon span i,
+.sppb-addon-accordion .sppb-panel-default .sppb-panel-heading .sppb-toggle-direction,
+.sppb-addon-articles .sppb-addon-article .sppb-meta-date-wrap .sppb-meta-date,
+.sppb-addon-articles .sppb-addon-article .sppb-article-info h3 a:hover,
+.sppb-addon-articles .sppb-addon-article .sppb-article-info h3 a:focus,
+.article-info > dd a:hover,
+.article-info > dd a:focus,
+.entry-header h2 a:hover,
+.entry-header h2 a:focus,
+.readmore a.btn:hover,
+.readmore a.btn:focus,
+.view-article .pager .next > a:hover,
+.view-article .pager .next > span:hover,
+.view-article .pager .previous > a:hover,
+.view-article .pager .previous > span:hover,
+.view-article .pager .next > a:focus,
+.view-article .pager .next > span:focus,
+.view-article .pager .previous > a:focus,
+.view-article .pager .previous > span:focus,
+.view-article .pager .next > a:hover .icon-chevron-left:before,
+.view-article .pager .next > span:hover .icon-chevron-left:before,
+.view-article .pager .previous > a:hover .icon-chevron-left:before,
+.view-article .pager .previous > span:hover .icon-chevron-left:before,
+.view-article .pager .next > a:focus .icon-chevron-left:before,
+.view-article .pager .next > span:focus .icon-chevron-left:before,
+.view-article .pager .previous > a:focus .icon-chevron-left:before,
+.view-article .pager .previous > span:focus .icon-chevron-left:before,
+.view-article .pager .next > a:hover .icon-leftarrow:before,
+.view-article .pager .next > span:hover .icon-leftarrow:before,
+.view-article .pager .previous > a:hover .icon-leftarrow:before,
+.view-article .pager .previous > span:hover .icon-leftarrow:before,
+.view-article .pager .next > a:focus .icon-leftarrow:before,
+.view-article .pager .next > span:focus .icon-leftarrow:before,
+.view-article .pager .previous > a:focus .icon-leftarrow:before,
+.view-article .pager .previous > span:focus .icon-leftarrow:before,
+.view-article .pager .next > a:hover .icon-arrow-left:before,
+.view-article .pager .next > span:hover .icon-arrow-left:before,
+.view-article .pager .previous > a:hover .icon-arrow-left:before,
+.view-article .pager .previous > span:hover .icon-arrow-left:before,
+.view-article .pager .next > a:focus .icon-arrow-left:before,
+.view-article .pager .next > span:focus .icon-arrow-left:before,
+.view-article .pager .previous > a:focus .icon-arrow-left:before,
+.view-article .pager .previous > span:focus .icon-arrow-left:before,
+.view-article .pager .next > a:hover .icon-chevron-right:before,
+.view-article .pager .next > span:hover .icon-chevron-right:before,
+.view-article .pager .previous > a:hover .icon-chevron-right:before,
+.view-article .pager .previous > span:hover .icon-chevron-right:before,
+.view-article .pager .next > a:focus .icon-chevron-right:before,
+.view-article .pager .next > span:focus .icon-chevron-right:before,
+.view-article .pager .previous > a:focus .icon-chevron-right:before,
+.view-article .pager .previous > span:focus .icon-chevron-right:before,
+.view-article .pager .next > a:hover .icon-rightarrow:before,
+.view-article .pager .next > span:hover .icon-rightarrow:before,
+.view-article .pager .previous > a:hover .icon-rightarrow:before,
+.view-article .pager .previous > span:hover .icon-rightarrow:before,
+.view-article .pager .next > a:focus .icon-rightarrow:before,
+.view-article .pager .next > span:focus .icon-rightarrow:before,
+.view-article .pager .previous > a:focus .icon-rightarrow:before,
+.view-article .pager .previous > span:focus .icon-rightarrow:before,
+.view-article .pager .next > a:hover .icon-arrow-right:before,
+.view-article .pager .next > span:hover .icon-arrow-right:before,
+.view-article .pager .previous > a:hover .icon-arrow-right:before,
+.view-article .pager .previous > span:hover .icon-arrow-right:before,
+.view-article .pager .next > a:focus .icon-arrow-right:before,
+.view-article .pager .next > span:focus .icon-arrow-right:before,
+.view-article .pager .previous > a:focus .icon-arrow-right:before,
+.view-article .pager .previous > span:focus .icon-arrow-right:before,
+#sp-right .sp-module ul.categories-module li a:hover,
+#sp-right .sp-module ul.categories-module li a:focus,
+#sp-right .sp-module .sp-tweet .sp-tweet-item .date a:hover,
+#sp-right .sp-module .sp-tweet .sp-tweet-item .date a:focus,
+.spectrum-video-info .sppb-addon-text-block ul li:before,
+.spectrum-animated-number .sppb-icon,
+.sppb-slide-item-bg.sppb-slideshow-fullwidth-item-bg .sppb-fullwidth-title,
+.spectrum-faq-list .sppb-addon-feature .sppb-icon i,
+#sp-bottom ul > li a:focus,
+#sp-bottom #sp-bottom1 .social-icons li a:hover,
+#sp-bottom #sp-bottom1 .social-icons li a:focus,
+#sp-bottom .latestnews > div small,
+#sp-bottom .latestnews > div a:hover,
+#sp-bottom .latestnews > div a:focus,
+#sp-footer a,
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner .sp-module .sp-module-content .latestnews div a:hover,
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner .sp-module .sp-module-content .latestnews div a:focus,
+.sp-megamenu-parent .sp-dropdown.sp-menu-full li.sp-menu-item.active > a:not(.sp-group-title),
+.sp-megamenu-parent .sp-dropdown.sp-menu-full li.sp-menu-item > a:not(.sp-group-title):hover,
+.sp-comingsoon .days .number,
+.sp-comingsoon .hours .number,
+.sp-comingsoon .seconds .number,
+.sp-comingsoon .minutes .number,
+.sp-simpleportfolio .sp-simpleportfolio-filter ul li.active a,
+.sp-simpleportfolio .sp-simpleportfolio-filter ul li a:hover,
+#sp-bottom #sp-bottom1 .custom ul > li .major,
+#sp-bottom ul > li a:hover,
+.offcanvas-menu .offcanvas-inner .sp-module ul > li.active > a,
+.offcanvas-menu .offcanvas-inner .sp-module ul > li:hover > a,
+.offcanvas-menu .offcanvas-inner .sp-module ul > li:focus > a,
+.offcanvas-menu .offcanvas-inner .sp-module ul > li ul > li.active > a,
+.offcanvas-menu .offcanvas-inner .sp-module ul > li ul > li:hover > a,
+.offcanvas-menu .offcanvas-inner .sp-module ul > li ul > li:focus > a,
+.offcanvas-menu .offcanvas-inner .sp-module ul > li ul > li.active > a,
+.offcanvas-menu .offcanvas-inner .sp-module ul > li ul > li:hover > a,
+.offcanvas-menu .offcanvas-inner .sp-module ul > li ul > li:focus > a,
+.com-search.view-search .search-results-wrap .result-title a:hover,
+.sppb-addon-pricing-table .sppb-pricing-box .sppb-pricing-price,
+.view-tag div.tag-category ul.category li a:hover,
+.view-tag div.tag-category ul.category li a:focus {
+  color: #ff3600;
+}
+.major-bgcolor,
+.spectrum-title-border .sppb-addon-title:after,
+.btn.btn-link:hover:after,
+.sppb-btn.btn-link:hover:after,
+.btn.sppb-btn-link:hover:after,
+.sppb-btn.sppb-btn-link:hover:after,
+.btn.btn-link:focus:after,
+.sppb-btn.btn-link:focus:after,
+.btn.sppb-btn-link:focus:after,
+.sppb-btn.sppb-btn-link:focus:after,
+.sp-page-title h2:after,
+.sppb-section:not(.spectrum-faq-list) .sppb-addon-feature:hover,
+.sppb-progress .sppb-progress-bar-primary,
+.sppb-addon-ajax-contact form .sppb-btn-wrap button,
+.tags a:hover,
+.tags a:focus,
+.helix-social-share .helix-social-share-icon ul li div a:hover,
+.helix-social-share .helix-social-share-icon ul li div a:focus,
+#sp-right .sp-module .tagspopular ul li a:hover,
+#sp-right .sp-module .tagspopular ul li a:focus,
+.customNavigation > a:hover,
+.customNavigation > a:focus,
+.owl-carousel .owl-controls .owl-dots .owl-dot.active span,
+.spectrum-contact-info .sppb-icon .sppb-icon-inner,
+.error-page .btn,
+.sp-simpleportfolio .sp-simpleportfolio-filter ul li a:after,
+.search .page-title:after,
+#sp-bottom .sppb-addon-gallery ul > li a:hover {
+  background: #ff3600;
+}
+.owl-carousel .owl-controls .owl-dots .owl-dot.active span,
+.sppb-section:not(.spectrum-faq-list) .sppb-addon-feature:hover {
+  border-color: #ff3600;
+}
+.btn.btn-link:after,
+.sppb-btn.btn-link:after,
+.btn.sppb-btn-link:after,
+.sppb-btn.sppb-btn-link:after {
+  background: rgba(255,54,0,0.5);
+}
+body .sppb-addon-person .sppb-person-image:after {
+  background: rgba(255,54,0,0.8);
+}
+.btn.btn-link:hover,
+.sppb-btn.btn-link:hover,
+.btn.sppb-btn-link:hover,
+.sppb-btn.sppb-btn-link:hover,
+.btn.btn-link:focus,
+.sppb-btn.btn-link:focus,
+.btn.sppb-btn-link:focus,
+.sppb-btn.sppb-btn-link:focus {
+  color: #d62d00;
+}
+.sppb-addon-ajax-contact form .sppb-btn-wrap button:hover,
+.sppb-addon-ajax-contact form .sppb-btn-wrap button:focus,
+.error-page .error-page-inner .btn:hover,
+.error-page .error-page-inner .btn:focus {
+  background: #cc2b00;
+}
+.view-category .pagination > li.next a:hover,
+.view-category .pagination > li.prev a:hover,
+.view-category .pagination > li.next a:focus,
+.view-category .pagination > li.prev a:focus,
+.view-category .pagination > li.next a.active,
+.view-category .pagination > li.prev a.active {
+  border-color: #ff3600 !important;
+}
+.sp-simpleportfolio .sp-simpleportfolio-overlay-wrapper .sp-simpleportfolio-overlay {
+  background-color: rgba(255,54,0,0.9) !important;
+}
