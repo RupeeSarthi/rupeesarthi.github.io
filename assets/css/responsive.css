@@ -1,0 +1,132 @@
+@media only screen and (max-width: 767px){
+.top-header .top_info {
+    text-align: center;
+}
+
+.top-header .social {
+    text-align: center;
+    padding: 10px 0;
+}
+.navbar-light .navbar-brand img {
+    width: 160px;
+}
+#navbarSupportedContent {
+    background-color: #fff !IMPORTANT;
+    z-index: 999;
+}
+.btn-white.btn-login.d-lg-none {
+    display: none !important;
+}
+
+.main_banner .banner .text {
+    padding: 100px 0 80px 0 !important;
+}
+.main_banner .banner .text h2 {
+    font-size: 36px;
+    width: 100%;
+    line-height: 44px;
+}
+.main_banner .banner .btn-white {
+    width: 160px;
+    padding: 10px !important;
+    margin: 0 !important;
+}
+.main_banner .banner .img {
+    display: none;
+}
+.service-section .heading {
+    width: 100%;
+    margin: 0;
+}
+.service-box {
+    padding: 15px 0px;
+}
+.aboutus-section .heading {
+    width: 100%;
+    margin-top: 30px;
+}
+.investor-corner::before {
+    border: 120px solid transparent;
+    left: -84px;
+}
+.investor-corner::after {
+    border: 140px solid transparent;
+    left: -100px;
+    top: -132px;
+}
+.form-card #frmContact {
+    padding: 30px 15px 15px;
+}
+.contact-home-section .form-card {
+    min-height: 460px;
+    margin-bottom: 30px;
+}
+
+.testimonial-box .image {
+    display: block;
+}
+.testimonial-box .content {
+    display: block;
+    width: 100%;
+    padding-left: 0px;
+    margin-top: 15px;
+}
+#carouselTest .owl-nav {
+    position: static;
+    text-align: left;
+}
+.footer-main .top-header {
+    padding: 40px 0;
+    text-align: center;
+}
+.footer-main .top-header .social {
+    padding: 25px 0 0 0;
+    text-align: center;
+}
+.footer-main .bottom-header {
+    text-align: center;
+    padding: 20px 0;
+}
+.footer-main .privacy-text {
+    text-align: center !important;
+}
+.inner_banner {
+    padding-top: 200px;
+    background: transparent;
+}
+.main_banner .banner .btn-secondary {
+    margin-top: 10px;
+}
+}
+
+
+@media only screen and (min-width: 1200px){
+.nav-item.dropdown .dropdown-menu {
+    border-radius: 0;
+    border: none;
+    transform: translateY(50px);
+    opacity: 0;
+    visibility: hidden;
+    display: block;
+    transition: all 0.3s ease-in-out;
+    padding: 0;
+}
+.navbar-nav .dropdown-item {
+    padding: 10px 30px;
+}
+.navbar-nav .dropdown-item {
+    font-weight: 600;
+    color: #110f10;
+}
+.navbar-nav .dropdown-item:focus, .dropdown-item:hover {
+    color: #fff;
+    background-color: #01cb99;
+}
+.nav-item.dropdown:hover .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0px);
+    transition: all 0.3s ease-in-out;
+}
+
+}
